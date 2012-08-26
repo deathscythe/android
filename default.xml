@@ -8,7 +8,7 @@
            fetch="git://android.git.linaro.org" />
 
   <remote  name="github"
-           fetch=".."
+           fetch="ssh://git@github.com"
            review="review.cyanogenmod.com" />
 
   <remote  name="private"
