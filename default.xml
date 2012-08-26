@@ -271,6 +271,7 @@
   <project path="external/cedarx" name="christiantroy/android_external_cedarx.git" revision="master" />
   <project path="vendor/cm" name="deathscythe/android_vendor_cm" />
   <project path="android" name="deathscythe/android" />
+  <project path="device/allwinner/p85" name="deathscythe/android_device_allwinner_p85" />
 
 
 </manifest>
