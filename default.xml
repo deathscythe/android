@@ -267,7 +267,7 @@
 
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />
   <project path="packages/apps/Gallery2" name="Quarx2k/platform_packages_apps_Gallery2" revision="master" />
-  <project path="hardware/realtek" name="deathscythe/android_hardware_realtek" revision="master" />
+  <project path="hardware/realtek" name="christiantroy/android_hardware_realtek" revision="master" />
   <project path="external/cedarx" name="christiantroy/android_external_cedarx.git" revision="master" />
   <project path="vendor/cm" name="deathscythe/android_vendor_cm" />
   <project path="android" name="deathscythe/android" />
