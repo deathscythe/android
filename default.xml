@@ -40,9 +40,9 @@
   <project path="device/samsung/torospr" name="device_samsung_torospr" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" />
   <project path="device/ti/panda" name="device_ti_panda" />-->
-  <project path="device/softwinner/common" name="device_softwinner_common" />
+  <!--<project path="device/softwinner/common" name="device_softwinner_common" />
   <project path="device/softwinner/crane-common" name="device_softwinner_crane-common" />
-  <project path="device/softwinner/crane-m1003h6" name="device_softwinner_crane-m1003h6" /> 
+  <project path="device/softwinner/crane-m1003h6" name="device_softwinner_crane-m1003h6" /> -->
   <!--<project path="docs/source.android.com" name="platform_docs_source.android.com" />-->
   <project path="external/aac" name="platform_external_aac" />
   <project path="external/android-mock" name="platform_external_android-mock" />
