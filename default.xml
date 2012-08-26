@@ -11,7 +11,7 @@
            remote="github"
            sync-j="4" />
 
-  <project path="build" name="platform_build">
+  <!--<project path="build" name="platform_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform_abi_cpp" />
@@ -39,11 +39,11 @@
   <project path="device/samsung/toro" name="device_samsung_toro" />
   <project path="device/samsung/torospr" name="device_samsung_torospr" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" />
-  <project path="device/ti/panda" name="device_ti_panda" />
+  <project path="device/ti/panda" name="device_ti_panda" />-->
   <project path="device/softwinner/common" name="device_softwinner_common" />
   <project path="device/softwinner/crane-common" name="device_softwinner_crane-common" />
   <project path="device/softwinner/crane-m1003h6" name="device_softwinner_crane-m1003h6" /> 
-  <project path="docs/source.android.com" name="platform_docs_source.android.com" />
+  <!--<project path="docs/source.android.com" name="platform_docs_source.android.com" />-->
   <project path="external/aac" name="platform_external_aac" />
   <project path="external/android-mock" name="platform_external_android-mock" />
   <project path="external/antlr" name="platform_external_antlr" />
@@ -189,7 +189,7 @@
   <project path="external/zlib" name="platform_external_zlib" />
   <project path="external/zxing" name="platform_external_zxing" />
   <project path="frameworks/av" name="platform_frameworks_av" />
-  <project path="frameworks/base" name="platform_frameworks_base" />
+  <!--<project path="frameworks/base" name="platform_frameworks_base" />-->
   <project path="frameworks/compile/libbcc" name="platform_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="platform_frameworks_compile_linkloader" />
   <project path="frameworks/compile/mclinker" name="platform_frameworks_compile_mclinker" />
@@ -207,22 +207,22 @@
   <project path="frameworks/support" name="platform_frameworks_support" />
   <project path="frameworks/testing" name="platform_frameworks_testing" />
   <project path="frameworks/wilhelm" name="platform_frameworks_wilhelm" />
-  <project path="gdk" name="platform_gdk" />
+  <!--<project path="gdk" name="platform_gdk" />-->
   <project path="hardware/broadcom/wlan" name="platform_hardware_broadcom_wlan" />
   <project path="hardware/invensense" name="platform_hardware_invensense" />
   <project path="hardware/libhardware" name="platform_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" />
-  <project path="hardware/msm7k" name="platform_hardware_msm7k" />
+  <!--<project path="hardware/msm7k" name="platform_hardware_msm7k" />-->
   <project path="hardware/qcom/gps" name="platform_hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="platform_hardware_qcom_media" />
   <project path="hardware/ril" name="platform_hardware_ril" />
-  <project path="hardware/ti/omap3" name="platform_hardware_ti_omap3" />
+  <!--<project path="hardware/ti/omap3" name="platform_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="platform_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="platform_hardware_ti_wlan" />
-  <project path="hardware/ti/wpan" name="platform_hardware_ti_wpan" />
+  <project path="hardware/ti/wpan" name="platform_hardware_ti_wpan" />-->
   <project path="libcore" name="platform_libcore" />
-  <project path="libnativehelper" name="platform_libnativehelper" />
-  <project path="ndk" name="platform_ndk" />
+  <!--<project path="libnativehelper" name="platform_libnativehelper" />
+  <project path="ndk" name="platform_ndk" />-->
   <project path="packages/apps/BasicSmsReceiver" name="platform_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="platform_packages_apps_Bluetooth" />
   <project path="packages/apps/Browser" name="platform_packages_apps_Browser" />
@@ -279,7 +279,7 @@
   <project path="packages/wallpapers/MusicVisualization" name="platform_packages_wallpapers_MusicVisualization" />
   <project path="packages/wallpapers/NoiseField" name="platform_packages_wallpapers_NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" name="platform_packages_wallpapers_PhaseBeam" />
-  <project path="pdk" name="platform_pdk" />
+  <!--<project path="pdk" name="platform_pdk" />
   <project path="prebuilt" name="platform_prebuilt" />
   <project path="prebuilts/eclipse" name="platform_prebuilts_eclipse" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="platform_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.6" />
@@ -302,7 +302,7 @@
   <project path="prebuilts/qemu-kernel" name="platform_prebuilts_qemu-kernel" />
   <project path="prebuilts/sdk" name="platform_prebuilts_sdk" />
   <project path="prebuilts/tools" name="platform_prebuilts_tools" />
-  <project path="sdk" name="platform_sdk" />
+  <project path="sdk" name="platform_sdk" />-->
   <project path="system/bluetooth" name="platform_system_bluetooth" />
   <project path="system/core" name="platform_system_core" />
   <project path="system/extras" name="platform_system_extras" />
